@@ -1,12 +1,12 @@
-from turtle import Screen
-from snake import Snake
-from food import Food
-from scoreboard import Scoreboard
+from turtle import Screen #importa libreria grafica
+from snake import Snake #del archivo snake importa la clase Snake 
+from food import Food # de el archivo food importa la clase Food
+from scoreboard import Scoreboard #
 import time
 
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.bgcolor("black")
+screen.bgcolor("darkgrey")
 screen.title("My Snake Game")
 screen.tracer(0)
 
@@ -14,8 +14,8 @@ snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
 
-screen.listen()
-screen.onkey(snake.up, "Up")
+screen.listen() #especifica el numero de conexiones no aceptadas que el sistema permitirá ants de rechazar nuevas conexiones
+screen.onkey(snake.up, "Up") #vincula el evento a realizar con la tecla especificada 
 screen.onkey(snake.down, "Down")
 screen.onkey(snake.left, "Left")
 screen.onkey(snake.right, "Right")

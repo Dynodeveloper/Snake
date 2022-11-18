@@ -11,7 +11,7 @@
 
 <p>Para la creacion de este proyecto iniciaremos por crear una carpeta madre llamada "SNAKE" en la cual encontraremos los codigos funcionales, un readme y una carpeta con imagenes</p>
 
-<img src="img/folders.png">
+<img src="img/folders.PNG">
 
 <h3>Archivos</h3>
 <li>main.py
@@ -29,4 +29,23 @@
 
 <ol>
 <li><p>En primer lugar tenemos turtle como libreria, esto nos permite crear la pantala en la que se observarán los sucesos, lo que viene siendo la interfaz</p>
-<li>
+<li><p>Los siguientes dos imports se importa las clases correspondientes( Snake,Food,Scoreboard ) de los archivos correspondientes <p>
+<li><p>Por ultimo se importa la libreria time permite reconocer el tiempo real desde el inicio hasta el final del juego
+
+<h3>Ventana
+
+<img src="img/Screen.PNG">
+
+<p> En esta seccion se definen los parametros de la interfaz o pantalla principal
+
+<h3>Funcion Principal
+
+<img src="img/funcionM.PNG">
+
+<p>En esta seccion se definen todas las funciones basicas para el correcto desempeño del programa
+
+<hr>
+
+<h1> Food.py
+
+

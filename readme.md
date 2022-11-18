@@ -46,6 +46,43 @@
 
 <hr>
 
-<h1> Food.py
+<h2> Food.py
+
+<p> en ete archivo se definiran los atributos o funciones referentes a la comida de la serpiente, para esto al igual que en el anterior se debn de importar archivos
+
+<img src="IMG/FOODIMP.png">
+
+<p> en primer lugar se immporta Turtle para el grafico de la comida y luego se importa random para la aparicion aleatoria de la comida
+
+<H3>Clase y atributos
+
+<img src="img/class_food.PNG">
+
+<p> se definen los atributos de la comida en si misma como su reaparicion , forma, color, entre otros
+
+<h2>Scoreboard.py
+
+<p> en este archivo se define la funcionalidad de el marcador y su apariencia, en este caso solo se importa turtle para su aparicion grafica
+
+<h3>Formato
+
+<img src="img/font.PNG">
+
+<p> se define la ubicacion del objeto o programa y su fuente 
+
+<h3> Funcionalidad
+
+<img src="img/class_score.PNG">
+
+<p>Se deinen los parametros de la clase marcador y se crean las funciones necesarias para su correcto funcionamiento 
+
+<hr>
+
+<H2>Snake.py
+
+<p> En este archivo se define todo lo relacionado con la serpiente en si misma, su forma, color y lo mas importante, su movimiento, de igual forma a lo anterior se importa turtle para generar los graficos
+
+<h3>
+
 
 

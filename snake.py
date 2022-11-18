@@ -1,6 +1,7 @@
 from turtle import Turtle
-STARTING_POSITIONS = [(0, 0), (-20, 0), (-40,0)]
-MOVE_DISTANCE = 20
+
+STARTING_POSITIONS = [(0, 0), (-20, 0), (-40,0)] #define la posicion inicial de la serpiente
+MOVE_DISTANCE = 20 #define la distancia recorrida
 UP = 90
 DOWN = 270
 LEFT = 180

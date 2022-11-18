@@ -82,7 +82,11 @@
 
 <p> En este archivo se define todo lo relacionado con la serpiente en si misma, su forma, color y lo mas importante, su movimiento, de igual forma a lo anterior se importa turtle para generar los graficos
 
-<h3>
+<h3> Variables
+
+<img src="img/snake.PNG">
+
+<p>Define lo necesario para el movimiento de la serpiente
 
 
 

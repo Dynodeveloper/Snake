@@ -50,13 +50,15 @@
 
 <p> en ete archivo se definiran los atributos o funciones referentes a la comida de la serpiente, para esto al igual que en el anterior se debn de importar archivos
 
+<br>
+
 <img src="img/foodimp.PNG">
 
 <p> en primer lugar se immporta Turtle para el grafico de la comida y luego se importa random para la aparicion aleatoria de la comida
 
 <H3>Clase y atributos
 
-<img src="img/class food.PNG">
+<img src="img/class_food.PNG">
 
 <p> se definen los atributos de la comida en si misma como su reaparicion , forma, color, entre otros
 

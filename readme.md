@@ -91,5 +91,12 @@
 
 <p>Define lo necesario para el movimiento de la serpiente
 
+<h3> Clase y movimiento
+
+<p> en esta parte del codigo se define las funciones con condiciones al igual que las funciones de extender al momento de entrar en contacto con la comida, es la parte esencial del juego
+
+<img src="img/snake_class.PNG">
+
+<p> con esto finalizado el juego funciona correctamente.
 
 

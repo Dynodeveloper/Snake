@@ -41,18 +41,18 @@ class Snake: #crea la clase de la serpiente
         self.head.forward(MOVE_DISTANCE)
 
     def up(self):
-        if self.head.heading() != DOWN:
+        if self.head.heading() != DOWN: #define la accion a realizar en base a una condicion
             self.head.setheading(UP)
 
     def down(self):
-        if self.head.heading() != UP:
+        if self.head.heading() != UP: #define la accion a realizar en base a una condicion
             self.head.setheading(DOWN)
 
     def left(self):
-        if self.head.heading() != RIGHT:
+        if self.head.heading() != RIGHT: #define la accion a realizar en base a una condicion
             self.head.setheading(LEFT)
 
     def right(self):
 
-        if self.head.heading() != LEFT:
+        if self.head.heading() != LEFT: #define la accion a realizar en base a una condicion
             self.head.setheading(RIGHT)

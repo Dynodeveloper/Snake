@@ -56,7 +56,7 @@
 
 <H3>Clase y atributos
 
-<img src="img/class_food.PNG">
+<img src="img/class food.PNG">
 
 <p> se definen los atributos de la comida en si misma como su reaparicion , forma, color, entre otros
 

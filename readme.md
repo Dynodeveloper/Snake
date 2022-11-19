@@ -40,9 +40,9 @@
 
 <h3>Funcion Principal
 
-<img src="img/funcionM.PNG">
-
 <p>En esta seccion se definen todas las funciones basicas para el correcto desempeño del programa
+
+<img src="img/funcionM.PNG">
 
 <hr>
 
@@ -50,7 +50,7 @@
 
 <p> en ete archivo se definiran los atributos o funciones referentes a la comida de la serpiente, para esto al igual que en el anterior se debn de importar archivos
 
-<img src="img/foodimp.png">
+<img src="img/foodimp.PNG">
 
 <p> en primer lugar se immporta Turtle para el grafico de la comida y luego se importa random para la aparicion aleatoria de la comida
 
@@ -66,9 +66,10 @@
 
 <h3>Formato
 
+<p> se define la ubicacion del objeto o programa y su fuente 
+
 <img src="img/font.PNG">
 
-<p> se define la ubicacion del objeto o programa y su fuente 
 
 <h3> Funcionalidad
 
